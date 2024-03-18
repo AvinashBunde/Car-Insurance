@@ -3,8 +3,8 @@ As a dedicated QA professional, I specialize in executing comprehensive selenium
 
 Bullet Points:
 
-Selenium automation testing specialist for car insurance websites.
-Focus on testing key features like registration, login-logout, quotation retrieval, and profile editing.
-Utilize Excel, Chrome, Edge, and Word for creating and executing tests.
-Implemented data-driven framework with Selenium and JavaScript for efficient testing.
-Designed effective test cases and scenarios to ensure website functionality and performance.
+1.Selenium automation testing specialist for car insurance websites.
+2.Focus on testing key features like registration, login-logout, quotation retrieval, and profile editing.
+3.Utilize Excel, Chrome, Edge, and Word for creating and executing tests.
+4.Implemented data-driven framework with Selenium and JavaScript for efficient testing.
+5.Designed effective test cases and scenarios to ensure website functionality and performance.
